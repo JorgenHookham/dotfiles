@@ -15,6 +15,13 @@ alias g="git"
 alias h="history"
 alias j="jobs"
 
+# git shortcuts
+alias gstat="git status"
+alias gdiff="git diff"
+alias gco="git checkout"
+alias gcom="git commit"
+alias ga="git add"
+
 # programs
 alias st='open -a "Sublime Text"'
 # also/or do this:
